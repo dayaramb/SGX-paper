@@ -14,4 +14,4 @@ SGX-Shield: Enabling Address Space Layout Randomization for SGX Programs|NDSS'17
 Detecting Privileged Side-Channel Attacks in Shielded Execution with Déjà Vu |ASIA CCS ’17 |[pdf](./pdf/ASIACCS.pdf) |[slide]()
 
 
-TrustJS: Trusted Client-side Execution of JavaScript|[pdf](.pdf/eurosec2017-trustjs-preprint.pdf)|
+TrustJS: Trusted Client-side Execution of JavaScript|[pdf](.pdf/eurosec2017-trustjs-preprint.pdf)
