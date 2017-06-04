@@ -28,6 +28,25 @@ Sno|Title|Publication|File|Slide|Video|Source
 25|Shielding Applications from anUntrusted Cloud with Haven |OSDI '14 | [pdf](./pdfs/haven.pdf)
 
 
+Other
+
+Unpublished:
+
+Title | Venue | PDF |Slides
+--- | --- | --- | ---
+Intel SGX Explained | | [link](https://eprint.iacr.org/2016/086.pdf)
+A Blockchain Based on Gossip? – a Position Paper| | [link](https://www.zurich.ibm.com/dccl/papers/renesse_dccl.pdf)
+Proof of Luck: an Efficient Blockchain Consensus Protocol | | [link](https://arxiv.org/pdf/1703.05435.pdf)
+Inferring Fine-grained Control Flow Inside SGX Enclaves with Branch Shadowing | | [link](https://arxiv.org/pdf/1611.06952.pdf)
+SGX Secure Enclaves in Practice: Security and Crypto Review| BlackHat 2016 |[pdf](./pdfs/black-hat-sgx.pdf) |[slides](./slides/sgx-blackhat-slides.pdf)
+
+
+
+Talk
+
+Title | Video
+Stanford Seminar - Intel Software Guard Extensions |[link](https://www.youtube.com/watch?v=mPT_vJrlHlg)
+
 
 
 
