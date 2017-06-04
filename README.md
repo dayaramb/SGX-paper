@@ -28,10 +28,7 @@ Sno|Title|Publication|File|Slide|Video|Source
 25|Shielding Applications from anUntrusted Cloud with Haven |OSDI '14 | [pdf](./pdfs/haven.pdf)
 
 
-Other
-
-Unpublished:
-
+#Other Unpublished
 Title | Venue | PDF |Slides
 --- | --- | --- | ---
 Intel SGX Explained | | [link](https://eprint.iacr.org/2016/086.pdf)
@@ -42,9 +39,10 @@ SGX Secure Enclaves in Practice: Security and Crypto Review| BlackHat 2016 |[pdf
 
 
 
-Talk
+# Talk
 
 Title | Video
+--- | --- 
 Stanford Seminar - Intel Software Guard Extensions |[link](https://www.youtube.com/watch?v=mPT_vJrlHlg)
 
 
