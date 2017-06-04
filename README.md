@@ -1,8 +1,8 @@
 # SGX Reading List
 Sno||Title|Publication|File|Slide|Video|Source
---- | --- | --- | ---| ---| --- | ---
+---|---|---|---|---|---|---
 1|PANOPLY: Low-TCB Linux Applications with SGX Enclaves | NDSS'17 | [PANOPLY](./pdfs/panoply.pdf)|[panoply-slide](./slides/panoply_ndss17.pptx) |[video](https://www.youtube.com/watch?v=-81dMtdQZbY&list=PLfUWWM-POgQsZ9YCXLaCHIvn_H6-F4esJ&index=26)|[github](https://shwetasshinde24.github.io/Panoply/)
-2|T-SGX: Eradicating Controlled-Channel Attacks Against Enclave Programs |NDSS'17|[TSGX](./pdfs/T-SGX.pdf)|[T-SGX-slide](./slides/t-sgx.pdf) |[video](https://youtu.be/DddYWXgsuJU)| | 
+2|T-SGX: Eradicating Controlled-Channel Attacks Against Enclave Programs |NDSS'17|[TSGX](./pdfs/T-SGX.pdf)|[T-SGX-slide](./slides/t-sgx.pdf) |[video](https://youtu.be/DddYWXgsuJU)
 3|SGX-Shield: Enabling Address Space Layout Randomization for SGX Programs|NDSS'17 |[SGX-Shield](./pdfs/SGX-shield.pdf)|[slide](https://www.internetsociety.org/sites/default/files/ndss2017-07_1-seo_slides.pdf)|[video](https://youtu.be/Ud8Lq87qfEc) 
 4|Detecting Privileged Side-Channel Attacks in Shielded Execution with Déjà Vu |ASIA CCS ’17 |[pdf](./pdfs/ASIACCS.pdf) |[slide]()
 5|SGX-Log: Securing System Logs With SGX | ASIA CCS'17 |[pdf](./pdfs/p19-karande.pdf)
@@ -25,12 +25,6 @@ Sno||Title|Publication|File|Slide|Video|Source
 22|AsyncShock: Exploiting Synchronisation Bugs in Intel SGX Enclaves| 	ESORICS'16 |[pdf](./pdfs/esorics2016.pdf)
 23|SGXIO: Generic Trusted I/O Path for Intel SGX |CODASPY'17 |[pdf](./pdfs/sgx-io.pdf)
 24|Shielding Applications from anUntrusted Cloud with Haven |OSDI '14 | [pdf](./pdfs/haven.pdf)
-
-
-
-
-
-
 
 
 
