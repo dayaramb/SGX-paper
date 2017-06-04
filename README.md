@@ -37,10 +37,7 @@ Proof of Luck: an Efficient Blockchain Consensus Protocol | | [link](https://arx
 Inferring Fine-grained Control Flow Inside SGX Enclaves with Branch Shadowing | | [link](https://arxiv.org/pdf/1611.06952.pdf)
 SGX Secure Enclaves in Practice: Security and Crypto Review| BlackHat 2016 |[pdf](./pdfs/black-hat-sgx.pdf) |[slides](./slides/sgx-blackhat-slides.pdf)
 
-
-
 # Talk
-
 Title | Video
 --- | --- 
 Stanford Seminar - Intel Software Guard Extensions |[link](https://www.youtube.com/watch?v=mPT_vJrlHlg)
