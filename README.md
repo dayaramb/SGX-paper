@@ -27,6 +27,8 @@ Sno|Title|Publication|File|Slide|Video|Source
 24|AsyncShock: Exploiting Synchronisation Bugs in Intel SGX Enclaves| 	ESORICS'16 |[pdf](./pdfs/esorics2016.pdf)
 25|SGXIO: Generic Trusted I/O Path for Intel SGX |CODASPY'17 |[pdf](./pdfs/sgx-io.pdf)
 26|Shielding Applications from anUntrusted Cloud with Haven |OSDI '14 | [pdf](./pdfs/haven.pdf)
+27|Moat: Verifying Confidentiality of Enclave Programs| CCS’15 | [pdf](./pdfs/ccs2015.pdf)
+28|Inferring Fine-grained Control Flow Inside SGX Enclaves with Branch Shadowing| USENIX|[pdf](./pdfs/1611.06952.pdf)
 
 
 # Other Unpublished
