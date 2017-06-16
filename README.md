@@ -60,7 +60,7 @@ The Design of Malware on Modern Hardware | | [pdf](./pdfs/report.pdf)
 #Projects
 
 Title | Link
-___ | ___
+--- | ---
 Securing storage encryption |https://github.com/ayeks/TresorSGX
 
 
