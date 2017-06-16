@@ -57,7 +57,10 @@ Malware Guard Extension: Using SGX to Conceal Cache Attacks| |[pdf](./pdfs/1702.
 The Design of Malware on Modern Hardware | | [pdf](./pdfs/report.pdf)
 
 
+#Projects
+Title | Link
 
+Securing storage encryption |https://github.com/ayeks/TresorSGX
 
 
 
