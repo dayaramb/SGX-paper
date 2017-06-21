@@ -29,7 +29,7 @@ Sno|Title|Publication|File|Slide|Video|Source
 26|Shielding Applications from anUntrusted Cloud with Haven |OSDI '14 | [pdf](./pdfs/haven.pdf)
 27|Moat: Verifying Confidentiality of Enclave Programs| CCS’15 | [pdf](./pdfs/ccs2015.pdf)
 28|Inferring Fine-grained Control Flow Inside SGX Enclaves with Branch Shadowing| USENIX|[pdf](./pdfs/1611.06952.pdf)
-
+29|Software Grand Exposure- SGX Cache Attacks Are Practical||[pdf](./pdfs/"Software Grand Exposure- SGX Cache Attacks Are Practical.pdf")
 
 # Other Unpublished
 
